@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-01)
+## Unreleased (2025-12-02)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d3c2ccc`](https://github.com/stdlib-js/stdlib/commit/d3c2ccca187782867ce02171a4d0da106728a731) - **docs:** resolve typos and documentation inconsistencies _(by Philipp Burckhardt)_
 -   [`82b3ef7`](https://github.com/stdlib-js/stdlib/commit/82b3ef70656a8fe1a765fc6875b2d440904c1d79) - **feat:** add `object/none-own-by` _(by Neeraj Pathak)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 
