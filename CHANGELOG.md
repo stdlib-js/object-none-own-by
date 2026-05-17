@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-17)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`79794ca`](https://github.com/stdlib-js/stdlib/commit/79794ca457116fc9c4d8ff1ad141173cdedb7dcd) - **bench:** rename benchmark file in `@stdlib/object-none-own-by` [(#12177)](https://github.com/stdlib-js/stdlib/pull/12177) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
