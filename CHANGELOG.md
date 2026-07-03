@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-03)
+## Unreleased (2026-07-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b71a63d`](https://github.com/stdlib-js/stdlib/commit/b71a63d212d3943412faa229884d0ee56ee429da) - **style:** remove stray spaces [(#13248)](https://github.com/stdlib-js/stdlib/pull/13248) _(by Philipp Burckhardt)_
 -   [`79794ca`](https://github.com/stdlib-js/stdlib/commit/79794ca457116fc9c4d8ff1ad141173cdedb7dcd) - **bench:** rename benchmark file in `@stdlib/object-none-own-by` [(#12177)](https://github.com/stdlib-js/stdlib/pull/12177) _(by Philipp Burckhardt)_
 
 </details>
